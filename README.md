@@ -10,6 +10,11 @@ Include the appropriate file in your [Core Functionality plugin](http://www.bill
 
 ## Location Rules
 
-##### Page Ancestor ([link](https://github.com/billerickson/acf-location-rules/blob/master/page-ancestor.php))
-Lets you display/hide a metabox if the current page is an ancestor of the selected page at any level (child, grandchild, great grandchild…).
+##### Page Ancestor
+Display/hide a metabox if the current page is an ancestor of the selected page at any level (child, grandchild, great grandchild…).
 
+#### Page Type, No Children
+Display/hide a metabox if the current page has no children pages.
+
+#### Post Category Ancestor
+Display/hide a metabox if the current post is in a category that's an ancestor of the selected category.
