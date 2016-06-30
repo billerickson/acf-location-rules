@@ -13,6 +13,9 @@ Include the appropriate file in your [Core Functionality plugin](http://www.bill
 ##### Page Ancestor
 Display/hide a metabox if the current page is an ancestor of the selected page at any level (child, grandchild, great grandchild…).
 
+##### Parent Page Template
+Display/hide a metabox if the parent of the current page is using the selected page template
+
 ##### Page Type, No Children
 Display/hide a metabox if the current page has no children pages.
 
